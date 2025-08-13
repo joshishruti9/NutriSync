@@ -20,7 +20,7 @@ It uses **LlamaIndex**, **LangChain**, and **OpenAI GPT-3.5** to index and query
 ---
 
 ## Project Structure
-recipe_index/ # Persistent storage for the index
-recipes.csv # Your recipe dataset
-recipe_agent.py # Main Python script
-README.md # Project documentation
+- recipe_index/ # Persistent storage for the index
+- recipes.csv # Your recipe dataset
+- recipe_agent.py # Main Python script
+- README.md # Project documentation
